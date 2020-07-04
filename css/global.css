@@ -1,0 +1,15 @@
+.button{
+	display: flex;
+	justify-content: flex-end;
+	width: 33%;
+
+}
+.button input{
+	width: 200px;
+	color: #fff;
+	padding: 1rem;
+	border:none;
+	border-radius: 40px;
+	background: linear-gradient(to right, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+	cursor: pointer;
+}
